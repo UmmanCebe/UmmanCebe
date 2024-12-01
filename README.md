@@ -54,3 +54,11 @@
 ### 💡 Fun Fact:
 - 🎯 I'm constantly learning and improving my skills in web development.
 - 🌱 Currently exploring advanced concepts in Angular and .Net Core.
+
+
+
+# Merhaba, Ben Umman Cebe! 👋  
+![Takipçiler](https://img.shields.io/github/followers/username?label=Takipçi&style=social)  
+![Repo Yıldızları](https://img.shields.io/github/stars/username?style=social)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+
